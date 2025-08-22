@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Z-65y-5ait
 - 👀 I’m interested in cyber securty
-- 🌱 I’m currently learning C and python
+- 🌱 I’m currently learning C and C++ and python
 - 💞️ I’m looking to collaborate on ()
 - 📫 How to reach me aymaneben261@gmail.com
 - 😄 Pronouns: 
